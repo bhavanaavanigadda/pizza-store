@@ -21,10 +21,6 @@ A simple Pizza Store project built with React.js, Redux, RTK Query, React Router
 - Responsive design.
 - Categories data are also managed through the API.
 
-<!-- Demo -->
-
-## Demo
-Check out the live demo [https://react-blog-mocha.vercel.app/](https://react-blog-mocha.vercel.app/).
 
 <!-- Getting Started -->
 ## Getting Started
